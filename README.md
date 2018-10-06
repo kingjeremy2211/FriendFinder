@@ -6,7 +6,7 @@
 
 In this activity, I built a compatibility-based "FriendFinder" application -- kind of like a "dating app". I decided to give mine an office theme. It will let the user submit a form of 10 questions and let them know which Office character they best match up to. This full-stack site takes in results of the users' surveys, then compares their answers with those from office characters. The app will then display the name and picture of the character with the best overall match.
 
-Check out the app running on heroku here: https://future_deployed_app.herokuapp.com/
+Check out the app running on heroku here: https://pure-depths-60534.herokuapp.com/
 
 ## Installation Instructions
 
