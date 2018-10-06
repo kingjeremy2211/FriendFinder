@@ -1,0 +1,273 @@
+[
+     {
+          "name": "Ryan Howard",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/ryan_howard.jpg",
+          "scores": [
+               3,
+               3,
+               5,
+               2,
+               5,
+               3,
+               5,
+               2,
+               5,
+               1
+          ]
+     },
+     {
+          "name": "Robert California",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/robert_california.jpg",
+          "scores": [
+               2,
+               1,
+               5,
+               1,
+               5,
+               5,
+               4,
+               3,
+               2,
+               5
+          ]
+     },
+     {
+          "name": "Gabe Lewis",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/gabe_lewis.jpg",
+          "scores": [
+               5,
+               5,
+               5,
+               5,
+               2,
+               5,
+               1,
+               5,
+               3,
+               2
+          ]
+     },
+     {
+          "name": "Meredith Palmer",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/meredith_palmer.jpg",
+          "scores": [
+               1,
+               5,
+               3,
+               2,
+               5,
+               1,
+               2,
+               4,
+               5,
+               1
+          ]
+     },
+     {
+          "name": "Phyllis Vance",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/phyllis_vance.jpg",
+          "scores": [
+               5,
+               1,
+               1,
+               2,
+               2,
+               5,
+               4,
+               1,
+               3,
+               4
+          ]
+     },
+     {
+          "name": "Toby Flanderson",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/toby_flanderson.jpg",
+          "scores": [
+               2,
+               2,
+               3,
+               2,
+               1,
+               5,
+               4,
+               1,
+               2,
+               2
+          ]
+     },
+     {
+          "name": "Kevin Malone",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/kevin_malone.jpg",
+          "scores": [
+               2,
+               1,
+               5,
+               1,
+               4,
+               5,
+               2,
+               1,
+               3,
+               3
+          ]
+     },
+     {
+          "name": "Kelly Kapoor",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/kelly_kapoor.jpg",
+          "scores": [
+               5,
+               5,
+               4,
+               5,
+               2,
+               3,
+               2,
+               1,
+               2,
+               4
+          ]
+     },
+     {
+          "name": "Erin Hannon",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/erin_hannon.jpg",
+          "scores": [
+               1,
+               1,
+               5,
+               2,
+               2,
+               5,
+               1,
+               3,
+               4,
+               1
+          ]
+     },
+     {
+          "name": "Angela Martin",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/angela_martin.jpg",
+          "scores": [
+               5,
+               5,
+               5,
+               5,
+               1,
+               1,
+               1,
+               1,
+               2,
+               4
+          ]
+     },
+     {
+          "name": "Stanley Hudson",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/stanley_hudson.jpg",
+          "scores": [
+               2,
+               1,
+               4,
+               1,
+               5,
+               3,
+               5,
+               2,
+               5,
+               1
+          ]
+     },
+     {
+          "name": "Darryl Philbin",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/darryl_philbin.jpg",
+          "scores": [
+               3,
+               4,
+               3,
+               3,
+               3,
+               3,
+               4,
+               2,
+               2,
+               4
+          ]
+     },
+     {
+          "name": "Andy Bernard",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/andy_bernard.jpg",
+          "scores": [
+               5,
+               3,
+               1,
+               2,
+               1,
+               5,
+               1,
+               1,
+               1,
+               4
+          ]
+     },
+     {
+          "name": "Pam Beesly",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/pam_beesly.jpg",
+          "scores": [
+               5,
+               5,
+               2,
+               3,
+               1,
+               5,
+               4,
+               1,
+               1,
+               2
+          ]
+     },
+     {
+          "name": "Michael Scott",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/michael_scott.jpg",
+          "scores": [
+               2,
+               2,
+               5,
+               3,
+               4,
+               4,
+               4,
+               1,
+               4,
+               1
+          ]
+     },
+     {
+          "name": "Jim Halpert",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/jim_halpert.jpg",
+          "scores": [
+               4,
+               5,
+               4,
+               3,
+               2,
+               4,
+               1,
+               2,
+               5
+          ]
+     },
+     {
+          "name": "Dwight Schrute",
+          "photo": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/dwight_schrute.jpg",
+          "scores": [
+               5,
+               3,
+               5,
+               4,
+               5,
+               5,
+               2,
+               2,
+               1,
+               3
+          ]
+     }
+]
